@@ -33,9 +33,5 @@
     }}]})
 </code></li></ol>
 
-<h2>Tecnologias utilizadas</h2>
-<ul>
-<li>Java</li>
-<li>Springboot</li>
-<li>MongoDB</li>
-</ul>
+<h2>Use no postman</h2>
+<p>http://localhost:8080/api/musicas</p>
