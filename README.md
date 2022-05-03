@@ -1,7 +1,7 @@
 <h1>Tech4music</h1>
 
 <h2>Sobre</h2>
-<p>Prova para o modulo back-end</p>
+<p>Prova para o módulo back-end</p>
 
 <h2>Questão 1: Descreva o comando para criação do banco(utilizado no mongosh ou compass), que deverá ser chamado de tech4music</h2>
 <p>Resposta: <code>use tech4music</code></p>
